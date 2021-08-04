@@ -1,0 +1,8 @@
+pillow
+numpy
+requests
+opencv-python
+scikit-image
+pgmagick
+mahotas
+memory_profiler
